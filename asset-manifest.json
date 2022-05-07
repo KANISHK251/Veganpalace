@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Veganpalace/static/css/main.6b97e1b6.css",
+    "main.js": "/Veganpalace/static/js/main.a3661d55.js",
+    "index.html": "/Veganpalace/index.html",
+    "main.6b97e1b6.css.map": "/Veganpalace/static/css/main.6b97e1b6.css.map",
+    "main.a3661d55.js.map": "/Veganpalace/static/js/main.a3661d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b97e1b6.css",
+    "static/js/main.a3661d55.js"
+  ]
+}
